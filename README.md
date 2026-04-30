@@ -3,7 +3,9 @@
 This project presents an interactive Global Sales Dashboard built using Power BI to analyze worldwide sales performance and generate business insights from transactional sales data.
 The dashboard provides a complete analytical view of sales activities across multiple regions, customer segments, and product categories. It enables decision-makers to monitor performance metrics, identify business opportunities, and support data-driven strategic planning.
 
-## Interactive Dashboard 
+## Dashboard
+![Screenshot (495)](https://github.com/user-attachments/assets/87c8c83e-3125-4395-b6e3-dce03ccc40fa)
+
 [**Explore the dashboard**](https://app.powerbi.com/links/t1mowspp6K?ctid=a74aa7fa-f7f9-4020-a84a-057abbba6e9b&pbi_source=linkShare)
 
 ## Dataset used 
