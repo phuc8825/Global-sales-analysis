@@ -9,6 +9,7 @@ The dashboard provides a complete analytical view of sales activities across mul
 [**Explore the dashboard**](https://app.powerbi.com/links/t1mowspp6K?ctid=a74aa7fa-f7f9-4020-a84a-057abbba6e9b&pbi_source=linkShare)
 
 ## Dataset used 
+Global retail sales dataset (Global Superstore), containing transactional data across multiple regions, products, and customer segments.
 
 ## Tool Used
 - **Power BI**: For creating interactive data visualizations and dashboards
